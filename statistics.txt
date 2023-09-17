@@ -1,0 +1,4 @@
+Lost    1
+Total    2
+NotAvl    1
+
